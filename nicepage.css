@@ -44300,7 +44300,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 85px;
+    min-height: 86px;
   }
 
   .u-header .u-image-1 {
@@ -44310,14 +44310,14 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -40px;
-    margin-right: -44px;
+    margin-top: -41px;
+    margin-right: -22px;
   }
 
   .u-header .u-text-1 {
     font-size: 1.5rem;
     width: auto;
-    margin: -32px 128px 29px 50px;
+    margin: -31px 128px 29px 50px;
   }
 }
 .u-header .u-text-1, .u-header .u-text-1:before, .u-header .u-text-1 > .u-container-layout:before {
