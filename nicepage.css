@@ -42463,7 +42463,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: #1f1f1f;
+            background-color: #030119;
         }
 
         .u-input.u-custom-color-1,
@@ -42472,7 +42472,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #1f1f1f !important;
+            background-color: #030119 !important;
         }
 
         .u-button-style.u-custom-color-1:hover,
@@ -42487,7 +42487,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: #1c1c1c !important;
+            background-color: #030117 !important;
         }
 
         .u-hover-custom-color-1:hover,
@@ -42515,11 +42515,11 @@ a.u-link.u-text-hover-grey-90:hover {
         input.u-field-input.u-field-input.u-active-custom-color-1:checked
         {
             color: #ffffff !important;
-            background-color: #1f1f1f !important;
+            background-color: #030119 !important;
         }
 
         a.u-link.u-hover-custom-color-1:hover {
-            color: #1f1f1f !important;
+            color: #030119 !important;
         }
 
         
@@ -42679,7 +42679,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-5 tr:nth-child(even)
         {
             color: #ffffff;
-            background-color: rgba(0,0,0,0.5019607843137255);
+            background-color: rgba(41,39,39,0.12941176470588237);
         }
 
         .u-input.u-custom-color-5,
@@ -42688,7 +42688,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-custom-color-5[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(0,0,0,0.5019607843137255) !important;
+            background-color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         .u-button-style.u-custom-color-5:hover,
@@ -42703,7 +42703,7 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > .u-button-style.u-button-style.u-custom-color-5[class*="u-border-"]
         {
             color: #ffffff !important;
-            background-color: rgba(0,0,0,0.5019607843137255) !important;
+            background-color: rgba(37,35,35,0.12941176470588237) !important;
         }
 
         .u-hover-custom-color-5:hover,
@@ -42731,11 +42731,11 @@ a.u-link.u-text-hover-grey-90:hover {
         input.u-field-input.u-field-input.u-active-custom-color-5:checked
         {
             color: #ffffff !important;
-            background-color: rgba(0,0,0,0.5019607843137255) !important;
+            background-color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         a.u-link.u-hover-custom-color-5:hover {
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         
@@ -42818,14 +42818,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-1.u-field-input.u-field-input,
         .u-separator-custom-color-1:after
         {
-            border-color: #1f1f1f;
-            stroke: #1f1f1f;
+            border-color: #030119;
+            stroke: #030119;
         }
 
         .u-button-style.u-border-custom-color-1
         {
-            border-color: #1f1f1f !important;
-            color: #1f1f1f !important;
+            border-color: #030119 !important;
+            color: #030119 !important;
             background-color: transparent !important;
         }
 
@@ -42833,7 +42833,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-1:focus
         {
             border-color: transparent !important;
-            color: #1c1c1c !important;
+            color: #030117 !important;
             background-color: transparent !important;
         }
 
@@ -42849,18 +42849,18 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-1,
         input.u-field-input.u-field-input.u-border-active-custom-color-1:checked
         {
-            color: #1f1f1f !important;
-            border-color: #1f1f1f !important;
+            color: #030119 !important;
+            border-color: #030119 !important;
         }
 
         .u-link.u-border-custom-color-1[class*="u-border-"]
         {
-            border-color: #1f1f1f !important;
+            border-color: #030119 !important;
         }
 
         .u-link.u-border-custom-color-1[class*="u-border-"]:hover
         {
-            border-color: #1c1c1c !important;
+            border-color: #030117 !important;
         }
         
         
@@ -42971,14 +42971,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-5.u-field-input.u-field-input,
         .u-separator-custom-color-5:after
         {
-            border-color: rgba(0,0,0,0.5019607843137255);
-            stroke: rgba(0,0,0,0.5019607843137255);
+            border-color: rgba(41,39,39,0.12941176470588237);
+            stroke: rgba(41,39,39,0.12941176470588237);
         }
 
         .u-button-style.u-border-custom-color-5
         {
-            border-color: rgba(0,0,0,0.5019607843137255) !important;
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            border-color: rgba(41,39,39,0.12941176470588237) !important;
+            color: rgba(41,39,39,0.12941176470588237) !important;
             background-color: transparent !important;
         }
 
@@ -42986,7 +42986,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-5:focus
         {
             border-color: transparent !important;
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(37,35,35,0.12941176470588237) !important;
             background-color: transparent !important;
         }
 
@@ -43002,18 +43002,18 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-border-active-custom-color-5,
         input.u-field-input.u-field-input.u-border-active-custom-color-5:checked
         {
-            color: rgba(0,0,0,0.5019607843137255) !important;
-            border-color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(41,39,39,0.12941176470588237) !important;
+            border-color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         .u-link.u-border-custom-color-5[class*="u-border-"]
         {
-            border-color: rgba(0,0,0,0.5019607843137255) !important;
+            border-color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         .u-link.u-border-custom-color-5[class*="u-border-"]:hover
         {
-            border-color: rgba(0,0,0,0.5019607843137255) !important;
+            border-color: rgba(37,35,35,0.12941176470588237) !important;
         }
         
         
@@ -43077,7 +43077,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1[class*="u-border-"]
         {
-            color: #1f1f1f !important;
+            color: #030119 !important;
         }
 
         a.u-button-style.u-text-custom-color-1:hover,
@@ -43089,7 +43089,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-1.active,
         a.u-button-style.u-button-style.u-text-custom-color-1[class*="u-border-"].active
         {
-            color: #1c1c1c !important;
+            color: #030117 !important;
         }
 
         /* hover */
@@ -43119,7 +43119,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-1 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-1 .u-nav-link.active
         {
-            color: #1f1f1f !important;
+            color: #030119 !important;
         }
 
         .u-text-custom-color-1 .u-svg-link,
@@ -43130,17 +43130,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style:active > .u-text-active-custom-color-1 .u-svg-link,
         .u-button-style.u-button-style.active > .u-text-active-custom-color-1 .u-svg-link
         {
-            fill: #1f1f1f;
+            fill: #030119;
         }
 
         .u-link.u-text-custom-color-1:hover
         {
-            color: #1c1c1c !important;
+            color: #030117 !important;
         }
 
         a.u-link.u-text-hover-custom-color-1:hover
         {
-            color: #1f1f1f !important;
+            color: #030119 !important;
         }
         
         
@@ -43302,7 +43302,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-text-custom-color-5,
         a.u-button-style.u-text-custom-color-5[class*="u-border-"]
         {
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         a.u-button-style.u-text-custom-color-5:hover,
@@ -43314,7 +43314,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-5.active,
         a.u-button-style.u-button-style.u-text-custom-color-5[class*="u-border-"].active
         {
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(37,35,35,0.12941176470588237) !important;
         }
 
         /* hover */
@@ -43344,7 +43344,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-popupmenu-items.u-text-hover-custom-color-5 .u-nav-link:hover,
         .u-popupmenu-items.u-popupmenu-items.u-text-active-custom-color-5 .u-nav-link.active
         {
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(41,39,39,0.12941176470588237) !important;
         }
 
         .u-text-custom-color-5 .u-svg-link,
@@ -43355,17 +43355,17 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-button-style:active > .u-text-active-custom-color-5 .u-svg-link,
         .u-button-style.u-button-style.active > .u-text-active-custom-color-5 .u-svg-link
         {
-            fill: rgba(0,0,0,0.5019607843137255);
+            fill: rgba(41,39,39,0.12941176470588237);
         }
 
         .u-link.u-text-custom-color-5:hover
         {
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(37,35,35,0.12941176470588237) !important;
         }
 
         a.u-link.u-text-hover-custom-color-5:hover
         {
-            color: rgba(0,0,0,0.5019607843137255) !important;
+            color: rgba(41,39,39,0.12941176470588237) !important;
         }
         
         
@@ -44033,13 +44033,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 116px;
+  min-height: 96px;
 }
 
 .u-header .u-image-1 {
   width: 78px;
   height: 78px;
-  margin: 19px auto 0 0;
+  margin: 9px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -44049,15 +44049,15 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   text-shadow: 2px 0px 8px rgba(26,26,26,1);
-  font-size: 2.25rem;
+  font-size: 3rem;
   background-image: none;
   letter-spacing: 8px;
-  font-weight: 400;
-  margin: -68px auto 0 75px;
+  font-weight: 700;
+  margin: -77px 864px 0 74px;
 }
 
 .u-header .u-menu-1 {
-  margin: -31px 0 23px auto;
+  margin: -58px 0 29px auto;
 }
 
 .u-header .u-file-icon-1 {
@@ -44077,84 +44077,138 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
-    margin-top: -68px;
-    margin-left: 75px;
+    margin-top: -77px;
+    margin-right: 712px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -31px;
+    margin-top: -58px;
+    margin-right: 0;
   }
 }
-
+@media (max-width: 991px) {
+  .u-header .u-text-1 {
+    margin-right: 545px;
+  }
+}
 @media (max-width: 767px) {
   .u-header .u-text-1 {
+    margin-right: 409px;
     font-size: 1rem;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 97px;
+    min-height: 87px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 5px;
+    margin-top: 4px;
     margin-left: -30px;
   }
 
   .u-header .u-text-1 {
     width: auto;
-    font-size: 1.875rem;
-    margin-top: -59px;
-    margin-left: 43px;
+    font-size: 3rem;
+    letter-spacing: 3px;
+    margin-right: auto;
+    margin-left: 48px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -44px;
-    margin-right: -16px;
-    margin-bottom: -7px;
+    margin-top: -77px;
+    margin-right: -22px;
+    margin-bottom: 3px;
   }
 
   .u-header .u-file-icon-1 {
     height: 76px;
-    font-size: calc(1em + 0px);
-    padding: 0 15px;
+    font-size: calc(1em + 13.6153px);
+    padding: 7px;
   }
 }
  .u-footer {
-  background-image: none;
+  min-height: 200px;
 }
 
-.u-footer .u-sheet-1 {
-  min-height: 120px;
+.u-footer .u-social-icons-1 {
+  height: 32px;
+  min-height: 16px;
+  width: 158px;
+  min-width: 94px;
+  white-space: nowrap;
+  margin: 15px auto 0 calc(((100% - 1140px) / 2)  + -25px);
+}
+
+.u-footer .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-footer .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+}
+
+.u-footer .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+}
+
+.u-footer .u-icon-4 {
+  color: rgb(0, 122, 185) !important;
+}
+
+.u-footer .u-image-1 {
+  width: 91px;
+  height: 91px;
+  margin: 8px auto 0;
+}
+
+.u-footer .u-logo-image-1 {
+  width: 100%;
+  height: 100%;
 }
 
 .u-footer .u-text-1 {
-  width: 417px;
-  margin: 49px auto;
+  text-shadow: 2px 0px 8px rgba(26,26,26,1);
+  font-size: 2.25rem;
+  background-image: none;
+  letter-spacing: 8px;
+  font-weight: 700;
+  margin: -29px auto 26px;
 }
 @media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
-  }
-}
-@media (max-width: 991px) {
-  .u-footer .u-sheet-1 {
-    min-height: 76px;
-  }
-}
-@media (max-width: 767px) {
-  .u-footer .u-sheet-1 {
-    min-height: 57px;
-  }
-}
-@media (max-width: 575px) {
-  .u-footer .u-sheet-1 {
-    min-height: 36px;
+  .u-footer .u-image-1 {
+    width: 91px;
   }
 
   .u-footer .u-text-1 {
-    width: 340px;
+    margin-top: -29px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-footer .u-text-1 {
+    font-size: 1rem;
+  }
+}
+@media (max-width: 575px) {
+   .u-footer {
+    min-height: 150px;
+  }
+
+  .u-footer .u-social-icons-1 {
+    margin-top: -44px;
+    margin-left: auto;
+  }
+
+  .u-footer .u-image-1 {
+    margin-top: 27px;
+  }
+
+  .u-footer .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-bottom: 15px;
   }
 }
 
