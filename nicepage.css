@@ -44264,21 +44264,25 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
    .u-footer {
-    min-height: 281px;
+    min-height: 218px;
   }
 
   .u-footer .u-image-1 {
-    margin-top: 78px;
+    height: 48px;
+    margin-top: 31px;
+    margin-right: calc(((100% - 340px) / 2)  + 69px);
   }
 
   .u-footer .u-list-1 {
     width: 90px;
-    margin-left: calc(((100% - 340px) / 2)  + -15px);
-    min-height: 583px;
+    margin-top: 18px;
+    margin-left: calc(((100% - 340px) / 2)  + -14px);
+    height: auto;
+    min-height: auto;
   }
 
   .u-footer .u-repeater-1 {
-    min-height: 55px;
+    min-height: 54px;
     grid-auto-columns: 14.2857%;
     grid-template-columns: repeat(7, 14.2857%);
     grid-gap: 0px;
@@ -44352,7 +44356,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-1 {
     font-size: 0.75rem;
     width: auto;
-    margin: 25px 0 31px;
+    margin: 17px 0 31px;
   }
 }
 .u-footer .u-icon-1, .u-footer .u-icon-1:before, .u-footer .u-icon-1 > .u-container-layout:before {
