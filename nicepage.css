@@ -44751,8 +44751,7 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 90px;
     margin-top: 18px;
     margin-left: calc(((100% - 340px) / 2)  + -14px);
-    height: auto;
-    min-height: auto;
+    min-height: 583px;
   }
 
   .u-footer .u-repeater-1 {
