@@ -804,6 +804,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  --radius: 10px;
 }
 
 .u-section-4 .u-container-layout-1 {
@@ -814,7 +815,7 @@
   font-size: 2.25rem;
   font-weight: 700;
   width: 719px;
-  margin: 2px auto 0 211px;
+  margin: 0 auto 0 211px;
 }
 
 .u-section-4 .u-text-2 {
@@ -1597,6 +1598,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  --radius: 10px;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -1605,7 +1607,7 @@
 
 .u-section-5 .u-text-1 {
   font-weight: 700;
-  margin: 0 100px -21px;
+  margin: 0 100px;
 }
 
 .u-section-5 .u-image-1 {
@@ -1717,7 +1719,6 @@
   .u-section-5 .u-text-1 {
     width: auto;
     margin-top: 0;
-    margin-bottom: 0;
   }
 
   .u-section-5 .u-image-1 {
@@ -1792,7 +1793,7 @@
   font-size: 3rem;
   letter-spacing: 0px;
   font-weight: 300;
-  margin: 58px -100px 0 100px;
+  margin: 58px 489px 0 100px;
 }
 
 .u-section-6 .u-btn-1 {
@@ -1807,10 +1808,22 @@
 @media (max-width: 1199px) {
   .u-section-6 .u-text-1 {
     margin-left: 0;
-    margin-right: 0;
+    margin-right: 389px;
   }
 
   .u-section-6 .u-btn-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-text-1 {
+    margin-right: 169px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-text-1 {
     margin-right: 0;
   }
 }
