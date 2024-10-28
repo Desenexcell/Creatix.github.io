@@ -349,7 +349,6 @@
 
 .u-section-2 .u-list-1 {
   grid-template-rows: repeat(1, auto);
-  width: 1140px;
   margin: 0 auto;
 }
 
@@ -426,8 +425,8 @@
   }
 
   .u-section-2 .u-list-1 {
-    width: 940px;
-    margin-left: 100px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -455,11 +454,6 @@
     margin-right: 210px;
   }
 
-  .u-section-2 .u-list-1 {
-    width: 720px;
-    margin-left: 210px;
-  }
-
   .u-section-2 .u-text-3 {
     width: auto;
     margin-left: 210px;
@@ -476,11 +470,6 @@
     font-size: 1rem;
     margin-left: 300px;
     margin-right: 300px;
-  }
-
-  .u-section-2 .u-list-1 {
-    width: 540px;
-    margin-left: 300px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -515,9 +504,8 @@
   .u-section-2 .u-list-1 {
     height: auto;
     min-height: 77px;
-    width: 340px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -1102,12 +1090,12 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 790px;
+    min-height: 808px;
   }
 
   .u-section-4 .u-group-1 {
     margin-top: 50px;
-    min-height: 55px;
+    min-height: 73px;
   }
 
   .u-section-4 .u-text-1 {
@@ -1793,11 +1781,12 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 997px;
+    min-height: 100vh;
   }
 
   .u-section-5 .u-group-1 {
-    min-height: 60px;
+    min-height: 78px;
+    margin-top: 50px;
   }
 
   .u-section-5 .u-text-1 {
@@ -1813,6 +1802,7 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
+    margin-top: 50px;
   }
 
   .u-section-5 .u-text-3 {
@@ -1827,6 +1817,7 @@
 
   .u-section-5 .u-image-1 {
     height: 204px;
+    margin-top: 142px;
     --animation-custom_in-translate_x: -300px;
     margin-right: initial;
     margin-left: initial;
@@ -1837,12 +1828,16 @@
     font-size: 1.25rem;
     --animation-custom_in-translate_x: 300px;
     width: auto;
+    margin-top: -321px;
     margin-right: 0;
+    font-weight: 400;
   }
 
   .u-section-5 .u-btn-1 {
     --animation-custom_in-translate_x: 300px;
+    margin-top: 254px;
     margin-left: auto;
+    margin-bottom: 60px;
     padding-top: 4px;
     padding-right: 43px;
     padding-left: 41px;
