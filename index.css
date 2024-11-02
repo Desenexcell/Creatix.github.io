@@ -197,42 +197,49 @@
     font-size: 1.5rem;
     width: auto;
     margin-top: -500px;
-    margin-left: 156px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-2 {
-    width: auto;
-    margin-top: -30px;
-    margin-right: 179px;
-    margin-left: 111px;
+    width: 50px;
+    margin-top: -58px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-1 .u-icon-1 {
     font-size: 1.375em;
+    width: 22px;
+    height: 34px;
+    margin-left: 4px;
   }
 
   .u-section-1 .u-text-3 {
-    font-size: 2.25rem;
+    font-size: 1.875rem;
     width: auto;
-    margin-top: 0;
+    margin-top: 26px;
   }
 
   .u-section-1 .u-text-4 {
-    font-size: 2.25rem;
+    font-size: 1.875rem;
     width: auto;
     margin-top: 5px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 14px;
-    margin-right: -2px;
-    margin-left: auto;
-    padding: 5px 20px 5px 18px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    margin-top: 13px;
+    margin-left: 217px;
+    padding: 5px 19px 6px 18px;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: -40px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    margin-top: -37px;
     margin-bottom: 60px;
+    margin-left: 18px;
     padding: 5px 16px 6px;
   }
 }
@@ -826,9 +833,11 @@
     --animation-custom_in-opacity: 0;
     --animation-custom_in-rotate: 0deg;
     --animation-custom_in-scale: 1;
-    width: 340px;
     height: 186px;
     margin-top: 50px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-3 .u-group-2 {
