@@ -49,10 +49,9 @@
 }
 
 .u-section-1 .u-btn-1 {
-  font-size: 1rem;
+  font-size: 0.875rem;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-weight: 500;
   transition-duration: 0.5s;
   --radius: 10px;
   --animation-custom_in-translate_x: 300px;
@@ -62,16 +61,16 @@
   --animation-custom_in-scale: 1;
   border-style: solid;
   box-shadow: 0px 0px 8px 0px rgba(0,156,255,1);
+  font-weight: 400;
   background-image: none;
   margin: 23px auto 0 249px;
   padding: 7px 62px 8px;
 }
 
 .u-section-1 .u-btn-2 {
-  font-size: 1rem;
+  font-size: 0.875rem;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-weight: 500;
   transition-duration: 0.5s;
   --radius: 10px;
   --animation-custom_in-translate_x: 300px;
@@ -81,6 +80,7 @@
   --animation-custom_in-scale: 1;
   border-style: solid;
   box-shadow: 0px 0px 8px 0px rgba(0,156,255,1);
+  font-weight: 400;
   background-image: none;
   margin: -44px auto 60px 0;
   padding: 7px 30px 8px 29px;
@@ -227,16 +227,12 @@
   }
 
   .u-section-1 .u-btn-1 {
-    font-size: 0.875rem;
-    font-weight: 400;
     margin-top: 13px;
     margin-left: 217px;
     padding: 5px 19px 6px 18px;
   }
 
   .u-section-1 .u-btn-2 {
-    font-size: 0.875rem;
-    font-weight: 400;
     margin-top: -37px;
     margin-bottom: 60px;
     margin-left: 18px;
