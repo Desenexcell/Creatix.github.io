@@ -530,12 +530,6 @@
   padding: 4px 79px 5px 77px;
 }
 
-.u-section-2 .u-image-1 {
-  width: 128px;
-  height: 128px;
-  margin: 30px auto 60px;
-}
-
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 909px;
@@ -599,7 +593,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 2251px;
+    min-height: 100vh;
   }
 
   .u-section-2 .u-text-1 {
@@ -631,7 +625,7 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: 50px;
-    margin-bottom: 49px;
+    margin-bottom: 60px;
     padding-right: 48px;
     padding-left: 46px;
   }
